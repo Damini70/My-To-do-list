@@ -1,0 +1,26 @@
+*{
+    letter-spacing: 0.1rem;
+    text-align: center;
+    
+  }
+  body{
+    border: 1px solid grey;
+    padding: 2rem;
+    margin:5rem;
+  }
+  
+    button{
+    margin: 5px;
+    border-radius: 5px;
+      padding: 0.2rem;
+  }
+  input{
+    padding: 1rem;
+  }
+  h2{
+    font-size: 2rem;
+    
+  }
+  .strike{
+    text-decoration: line-through;
+  }
