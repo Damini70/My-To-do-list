@@ -11,7 +11,7 @@ function myList(){
       ul.appendChild(li);
       
       let btn=document.createElement("button");
-      btn.innerText="complete";
+      btn.innerText="Complete";
       btn.setAttribute("class","complete-btn");
       
       li.appendChild(btn);
